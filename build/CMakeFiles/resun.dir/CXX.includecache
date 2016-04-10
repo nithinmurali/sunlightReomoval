@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nithin/dev/sunlightRemoval/retinaDemo.cpp
+iostream
+-
+cstring
+-
+opencv2/opencv.hpp
+/home/nithin/dev/sunlightRemoval/opencv2/opencv.hpp
+
